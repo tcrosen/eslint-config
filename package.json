@@ -1,0 +1,31 @@
+{
+  "name": "eslint-config",
+  "version": "1.0.0",
+  "description": "My preferred ESLint configuration",
+  "main": ".eslintrc",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-eslint": "^4.1.4",
+    "eslint": "^1.9.0",
+    "eslint-config-airbnb": "^1.0.0",
+    "eslint-plugin-react": "^3.8.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcrosen/eslint-config.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "eslintrc"
+  ],
+  "author": "Terry Rosen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tcrosen/eslint-config/issues"
+  },
+  "homepage": "https://github.com/tcrosen/eslint-config#readme"
+}
